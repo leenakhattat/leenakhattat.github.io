@@ -1,6 +1,6 @@
 # Leena Khattat
 
-this is a personal website to showcase my life :)
+this is a personal website to showcase my projects and stuff
 
 # Projects
 
