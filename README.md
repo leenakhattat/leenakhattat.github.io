@@ -1,2 +1,7 @@
-# personal-website
-personal website to showcase my life :)
+# Leena Khattat
+
+this is a personal website to showcase my life :)
+
+# Projects
+
+# Currents
