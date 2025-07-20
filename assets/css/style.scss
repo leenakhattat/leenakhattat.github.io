@@ -2,3 +2,17 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* assets/css/style.css */
+a {
+  color: #FFD6E4; /* change to your desired color */
+}
+
+a:hover {
+  color: #FFC4CE; /* optional: change hover color */
+}
+
+a {
+    background-color: #D9A3A0;
+}
+
