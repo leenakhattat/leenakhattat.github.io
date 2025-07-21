@@ -5,7 +5,6 @@
   <a class="nav-button" href="/interests">interests</a>
 </div>
 
-# Leena Khattat
 
 welcome to my site :) thanks for visiting! 
 
