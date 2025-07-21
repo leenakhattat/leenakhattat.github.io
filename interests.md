@@ -6,12 +6,10 @@ title: interests
 ## current faves
 
 listen to my current favorite playlist while you read!
-<iframe style="border-radius:12px" 
-  src="https://open.spotify.com/playlist/5DBzNNnXmtRlrqaIbdHxPe?si=1d6a610650734987" 
-  width="100%" height="152" frameBorder="0" allowfullscreen="" 
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-  loading="lazy">
-</iframe>
+<a href="https://open.spotify.com/playlist/your-playlist-id" target="_blank" class="spotify-button">
+  ▶ Listen on Spotify
+</a>
+
 
 my current favorite book is the hunger games series, all 5 are amazing
 
