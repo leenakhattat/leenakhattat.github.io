@@ -31,7 +31,7 @@ footer {
   margin: 0 10px;
   padding: 10px 16px;
   background-color: #d08888;
-  color: #C78F8D;
+  color: white;
   text-decoration: none;
   font-weight: bold;
   border-radius: 8px;
@@ -40,8 +40,23 @@ footer {
 
 .nav-button:hover {
   background-color: #b06060;
-  color: #C78F8D;
+  color: white;
 }
 
 
+/* Hide the left sidebar */
+header {
+  display: none;
+}
 
+/* Expand the main section to full width */
+section {
+  margin-left: 0;
+  width: 100%;
+}
+
+section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
