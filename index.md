@@ -1,9 +1,6 @@
-<div class="top-nav">
-  <a class="nav-button" href="/">home</a>
-  <a class="nav-button" href="/projects">projects</a>
-  <a class="nav-button" href="/about">about</a>
-  <a class="nav-button" href="/interests">interests</a>
-</div>
+---
+layout: default
+---
 
 
 welcome to my site :) thanks for visiting! 
