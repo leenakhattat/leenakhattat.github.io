@@ -17,5 +17,30 @@ footer {
   display: none;
 }
 
+/* Top navigation container */
+.top-nav {
+  text-align: center;
+  margin-bottom: 2rem;
+  padding: 10px 0;
+  background-color: #f4dada; /* light pink background */
+}
+
+/* Navigation buttons */
+.nav-button {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 10px 16px;
+  background-color: #d08888;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.nav-button:hover {
+  background-color: #b06060;
+}
+
 
 

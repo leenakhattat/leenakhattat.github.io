@@ -1,7 +1,13 @@
-# Leena Khattat
+<div class="top-nav">
+  <a class="nav-button" href="/">Home</a>
+  <a class="nav-button" href="/projects">Projects</a>
+  <a class="nav-button" href="/about">About</a>
+</div>
 
-this is a personal website to showcase my projects and stuff
+
 
 # Projects
 
 # Currents
+
+
