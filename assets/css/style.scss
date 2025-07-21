@@ -22,7 +22,6 @@ footer {
   text-align: center;
   margin-bottom: 2rem;
   padding: 10px 0;
-  background-color: #f4dada; /* light pink background */
 }
 
 /* Navigation buttons */
@@ -31,7 +30,7 @@ footer {
   margin: 0 10px;
   padding: 10px 16px;
   background-color: #d08888;
-  color: white;
+  color: black;
   text-decoration: none;
   font-weight: bold;
   border-radius: 8px;
@@ -40,6 +39,7 @@ footer {
 
 .nav-button:hover {
   background-color: #b06060;
+  color: black;
 }
 
 
