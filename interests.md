@@ -6,8 +6,9 @@ title: interests
 ## current faves
 
 listen to my current favorite playlist while you read!
+
 <a href="https://open.spotify.com/playlist/your-playlist-id" target="_blank" class="spotify-button">
-  ▶ Listen on Spotify
+  ▶ spotify
 </a>
 
 
